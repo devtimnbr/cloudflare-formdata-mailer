@@ -1,0 +1,3 @@
+name = "mailer"
+compatibility_date = "2022-10-11"
+main = "index.ts"
